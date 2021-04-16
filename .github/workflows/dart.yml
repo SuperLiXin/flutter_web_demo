@@ -36,4 +36,4 @@ jobs:
           git checkout -b main
           git add --all
           git commit -m "update"
-          git push origin gh-main -f
+          git push origin main -f
